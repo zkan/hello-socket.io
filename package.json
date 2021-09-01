@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zkan/hello-socket.io/issues"
   },
-  "homepage": "https://github.com/zkan/hello-socket.io#readme"
+  "homepage": "https://github.com/zkan/hello-socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
